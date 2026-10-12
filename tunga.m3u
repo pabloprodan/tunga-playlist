@@ -1,0 +1,131 @@
+#EXTM3U
+# TungaVip - Lista curada Argentina + Deportes Premium
+# Actualizada automáticamente
+
+# ===== AIRE =====
+#EXTINF:-1 group-title="Aire",Telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 group-title="Aire",Telefe (alt)
+http://45.173.231.22:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Aire",El Nueve
+http://181.78.197.59:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Aire",America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="Aire",Television Publica
+http://190.128.214.97:64333/play/a008/index.m3u8
+#EXTINF:-1 group-title="Aire",NET TV
+http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+#EXTINF:-1 group-title="Aire",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+# ===== NOTICIAS =====
+#EXTINF:-1 group-title="Noticias",Cronica TV
+http://190.128.214.97:64333/play/a010/index.m3u8
+#EXTINF:-1 group-title="Noticias",Cronica TV (alt)
+http://181.78.197.59:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Noticias",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+# ===== CORDOBA =====
+#EXTINF:-1 group-title="Cordoba",Canal 12 Web
+https://nd106.republicaservers.com:4433/c7827.mp4
+
+# ===== DEPORTES =====
+#EXTINF:-1 group-title="Deportes",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSports
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Latin America
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 Latin America
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 Latin America
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4 Latin America
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 5 Latin America
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 6 Latin America
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 7 Latin America
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports Brasil
+http://181.78.197.59:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 Brasil
+http://181.78.197.59:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Argentina
+http://181.78.197.59:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports 2
+http://181.78.197.59:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Deportes",SporTV
+http://181.78.197.59:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere
+http://181.78.197.59:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Deportes",Band Sports
+http://181.78.197.59:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="Deportes",beIN Sports Xtra
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN US
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 US
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 US
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 group-title="Deportes",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 group-title="Deportes",NFL Network
+http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 group-title="Deportes",MLB Strike Zone
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 group-title="Deportes",WWE Network
+http://103.151.60.162:2122/play/a00p/index.m3u8?hls
+#EXTINF:-1 group-title="Deportes",Combate
+http://181.78.197.59:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN Combat
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072633-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af4aed2d-44b9-45af-9707-5d83d9aaba97
+
+# ===== F1 =====
+#EXTINF:-1 group-title="F1",DAZN F1 HD
+http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:F1:B0:FD&stream=2068325&extension=ts&play_token=k92nLHzD0B
+#EXTINF:-1 group-title="F1",Sky Sports F1
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts&play_token=dNJBdxFfT9
+#EXTINF:-1 group-title="F1",F1 TV
+http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
+#EXTINF:-1 group-title="F1",Formula 1 Live
+http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
+
+# ===== CINE =====
+#EXTINF:-1 group-title="Cine",Sony Channel
+http://138.121.15.230:9002/SONY/index.m3u8
+#EXTINF:-1 group-title="Cine",TCM
+http://45.171.64.30:6060/play/a014/index.m3u8
+#EXTINF:-1 group-title="Cine",AMC Series
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 group-title="Cine",FX
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Cine",TNT Novelas
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 group-title="Cine",Europa Europa
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+
+# ===== ENTRETENIMIENTO =====
+#EXTINF:-1 group-title="Entretenimiento",E! Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Investigation Discovery
+http://38.65.175.84:8000/play/a0ch/index.m3u8
+
+# ===== INFANTILES =====
+#EXTINF:-1 group-title="Infantiles",Disney Channel
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Junior
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Cartoon Network
+http://158.172.217.18:8000/play/a03a/index.m3u8
