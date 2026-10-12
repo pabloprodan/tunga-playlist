@@ -33,7 +33,7 @@ https://nd106.republicaservers.com:4433/c7827.mp4
 # ===== DEPORTES =====
 #EXTINF:-1 group-title="Deportes",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",TyC Sports USA
+#EXTINF:-1 group-title="Deportes",TyC Sports (alt)
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSports
 http://38.187.7.252:8000/play/a03d/index.m3u8
@@ -54,7 +54,7 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 7 Latin America
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports
-http://138.59.227.20:8000/play/a085/index.m3u8
+http://190.128.214.97:64333/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports Brasil
 http://181.78.197.59:8000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports 2 Brasil
@@ -101,10 +101,14 @@ http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
 
 # ===== CINE =====
-#EXTINF:-1 group-title="Cine",Sony Channel
+#EXTINF:-1 group-title="Cine",TNT
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
+#EXTINF:-1 group-title="Cine",Sonny Channel
 http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 group-title="Cine",TCM
-http://45.171.64.30:6060/play/a014/index.m3u8
+http://45.134.141.161:2200/ARG/TCM/index.m3u8
+#EXTINF:-1 group-title="Cine",USA Network
+http://45.134.141.161:2200/ARG/USA/index.m3u8
 #EXTINF:-1 group-title="Cine",AMC Series
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",FX
