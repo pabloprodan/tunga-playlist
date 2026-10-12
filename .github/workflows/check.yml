@@ -1,0 +1,26 @@
+name: Verificar canales
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test streams
+        run: |
+          echo "## Canal check $(date -u)" > report.md
+          grep -E '^https?://' tunga.m3u | while read -r url; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 10 -A "Mozilla/5.0" -L "$url" || echo "000")
+            echo "- $code $url" >> report.md
+          done
+      - name: Commit report
+        run: |
+          git config user.name "TungaBot"
+          git config user.email "bot@tunga.tv"
+          git add report.md
+          git commit -m "stream check $(date -u +%H:%M)" || echo "no changes"
+          git push
