@@ -1,4 +1,4 @@
-## Canal check Tue Oct 20 04:17:55 UTC 2026
+## Canal check Tue Oct 20 11:13:38 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -11,7 +11,7 @@
 - 200 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 - 200 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 - 200 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
-- 000000 http://38.65.175.84:8000/play/a0ch/index.m3u8
+- 200 http://38.65.175.84:8000/play/a0ch/index.m3u8
 - 200000 https://nd106.republicaservers.com:4433/c7827.mp4
 - 200 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 - 000000 http://38.187.7.252:8000/play/a03d/index.m3u8
@@ -41,7 +41,7 @@
 - 200 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 - 200 http://181.78.197.59:8000/play/a07q/index.m3u8
 - 200 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072633-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af4aed2d-44b9-45af-9707-5d83d9aaba97
-- 200000 http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:F1:B0:FD&stream=2068325&extension=ts&play_token=k92nLHzD0B
+- 302000 http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:F1:B0:FD&stream=2068325&extension=ts&play_token=k92nLHzD0B
 - 200 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts&play_token=dNJBdxFfT9
 - 200000 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
 - 200000 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
