@@ -1,4 +1,4 @@
-## Canal check Thu Oct 22 11:29:50 UTC 2026
+## Canal check Thu Oct 22 16:56:02 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
