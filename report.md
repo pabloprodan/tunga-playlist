@@ -1,4 +1,4 @@
-## Canal check Fri Oct 23 21:13:36 UTC 2026
+## Canal check Sat Oct 24 04:02:51 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -9,7 +9,7 @@
 - 404 http://190.128.214.97:64333/play/a010/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07f/index.m3u8
 - 200 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-- 403 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+- 000000 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 - 200 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 - 200 http://38.65.175.84:8000/play/a0ch/index.m3u8
 - 200000 https://nd106.republicaservers.com:4433/c7827.mp4
@@ -55,4 +55,4 @@
 - 200 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-- 404 http://158.172.217.18:8000/play/a03a/index.m3u8
+- 200 http://158.172.217.18:8000/play/a03a/index.m3u8
