@@ -1,4 +1,4 @@
-## Canal check Sat Oct 24 04:02:51 UTC 2026
+## Canal check Sat Oct 24 10:38:43 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -9,7 +9,7 @@
 - 404 http://190.128.214.97:64333/play/a010/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07f/index.m3u8
 - 200 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-- 000000 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+- 403 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 - 200 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 - 200 http://38.65.175.84:8000/play/a0ch/index.m3u8
 - 200000 https://nd106.republicaservers.com:4433/c7827.mp4
@@ -45,7 +45,7 @@
 - 200 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts&play_token=dNJBdxFfT9
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
-- 200 http://45.134.141.161:2200/ARG/TNT/index.m3u8
+- 404 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 - 200 http://138.121.15.230:9002/SONY/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/TCM/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/USA/index.m3u8
