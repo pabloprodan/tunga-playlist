@@ -1,4 +1,4 @@
-## Canal check Sat Oct 24 10:38:43 UTC 2026
+## Canal check Sat Oct 24 15:40:49 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -16,13 +16,13 @@
 - 200 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 - 000000 http://38.187.7.252:8000/play/a03d/index.m3u8
 - 200 http://190.128.214.97:64333/play/a02i/index.m3u8
-- 200 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+- 000000 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-- 200 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+- 000000 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 - 200 http://190.128.214.97:64333/play/a02h/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07w/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07v/index.m3u8
@@ -45,8 +45,8 @@
 - 200 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts&play_token=dNJBdxFfT9
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
-- 404 http://45.134.141.161:2200/ARG/TNT/index.m3u8
-- 200 http://138.121.15.230:9002/SONY/index.m3u8
+- 200 http://45.134.141.161:2200/ARG/TNT/index.m3u8
+- 404 http://138.121.15.230:9002/SONY/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/TCM/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/USA/index.m3u8
 - 200 http://45.171.64.30:6060/play/a005/index.m3u8
