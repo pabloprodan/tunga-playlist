@@ -1,13 +1,13 @@
-## Canal check Thu Oct 29 05:11:38 UTC 2026
+## Canal check Thu Oct 29 12:39:21 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07g/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07g/index.m3u8
 - 200 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 - 404 http://190.128.214.97:64333/play/a008/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 - 200 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 - 404 http://190.128.214.97:64333/play/a010/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07f/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07f/index.m3u8
 - 200 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 - 403 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 - 200 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
@@ -24,13 +24,13 @@
 - 200 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 - 200 http://190.128.214.97:64333/play/a02h/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07w/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07v/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07k/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07j/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07u/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07r/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07s/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07w/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07v/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07k/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07j/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07u/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07r/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07s/index.m3u8
 - 200 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 - 200 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 - 200 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
@@ -39,9 +39,9 @@
 - 200 http://198.58.104.90:8989/nfl/index.m3u8
 - 000000 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 - 403 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
-- 200 http://181.78.197.59:8000/play/a07q/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07q/index.m3u8
 - 200 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072633-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af4aed2d-44b9-45af-9707-5d83d9aaba97
-- 302000 http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:F1:B0:FD&stream=2068325&extension=ts&play_token=k92nLHzD0B
+- 200000 http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:F1:B0:FD&stream=2068325&extension=ts&play_token=k92nLHzD0B
 - 200 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts&play_token=dNJBdxFfT9
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
@@ -49,7 +49,7 @@
 - 200 http://138.121.15.230:9002/SONY/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/TCM/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/USA/index.m3u8
-- 200 http://45.171.64.30:6060/play/a005/index.m3u8
+- 404 http://45.171.64.30:6060/play/a005/index.m3u8
 - 200 http://72.1.184.5:8089/play/a05i/index.m3u8
 - 200 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 - 200 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
