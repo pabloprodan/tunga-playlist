@@ -1,4 +1,4 @@
-## Canal check Sat Oct 31 11:58:02 UTC 2026
+## Canal check Sat Oct 31 17:11:53 UTC 2026
 - 404 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -17,12 +17,12 @@
 - 000000 http://38.187.7.252:8000/play/a03d/index.m3u8
 - 200 http://190.128.214.97:64333/play/a02i/index.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-- 200 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+- 000000 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-- 200 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+- 000000 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 - 200 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-- 200 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+- 000000 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 - 200 http://190.128.214.97:64333/play/a02h/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07w/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07v/index.m3u8
@@ -37,7 +37,7 @@
 - 200 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 - 200 http://23.237.104.106:8080/USA_NBA/index.m3u8
 - 200 http://198.58.104.90:8989/nfl/index.m3u8
-- 404 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+- 000000 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 - 403 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 - 200 http://181.78.197.59:8000/play/a07q/index.m3u8
 - 200 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072633-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af4aed2d-44b9-45af-9707-5d83d9aaba97
@@ -53,6 +53,6 @@
 - 200 http://72.1.184.5:8089/play/a05i/index.m3u8
 - 200 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 - 200 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
-- 404 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-- 404 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+- 200 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+- 200 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 - 200 http://158.172.217.18:8000/play/a03a/index.m3u8
