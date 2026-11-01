@@ -1,5 +1,5 @@
-## Canal check Sun Nov  1 05:24:19 UTC 2026
-- 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+## Canal check Sun Nov  1 12:57:52 UTC 2026
+- 404 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
 - 200 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -48,7 +48,7 @@
 - 200 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 - 200 http://138.121.15.230:9002/SONY/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/TCM/index.m3u8
-- 200 http://45.134.141.161:2200/ARG/USA/index.m3u8
+- 404 http://45.134.141.161:2200/ARG/USA/index.m3u8
 - 200 http://45.171.64.30:6060/play/a005/index.m3u8
 - 200 http://72.1.184.5:8089/play/a05i/index.m3u8
 - 200 http://190.93.224.42/TNT-NOVELAS/index.m3u8
