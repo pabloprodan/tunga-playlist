@@ -1,4 +1,4 @@
-## Canal check Tue Nov  3 13:55:14 UTC 2026
+## Canal check Tue Nov  3 23:04:09 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -36,7 +36,7 @@
 - 200 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 - 200 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 - 200 http://23.237.104.106:8080/USA_NBA/index.m3u8
-- 200 http://198.58.104.90:8989/nfl/index.m3u8
+- 000000 http://198.58.104.90:8989/nfl/index.m3u8
 - 404 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 - 403 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 - 200 http://181.78.197.59:8000/play/a07q/index.m3u8
