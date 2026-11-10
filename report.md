@@ -1,4 +1,4 @@
-## Canal check Tue Nov 10 01:21:53 UTC 2026
+## Canal check Tue Nov 10 14:38:27 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -11,7 +11,7 @@
 - 200 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 - 403 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 - 200 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
-- 200 http://38.65.175.84:8000/play/a0ch/index.m3u8
+- 000000 http://38.65.175.84:8000/play/a0ch/index.m3u8
 - 200000 https://nd106.republicaservers.com:4433/c7827.mp4
 - 200 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 - 000000 http://38.187.7.252:8000/play/a03d/index.m3u8
@@ -37,7 +37,7 @@
 - 200 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 - 200 http://23.237.104.106:8080/USA_NBA/index.m3u8
 - 000000 http://198.58.104.90:8989/nfl/index.m3u8
-- 000000 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+- 404 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 - 403 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 - 200 http://181.78.197.59:8000/play/a07q/index.m3u8
 - 200 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072633-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af4aed2d-44b9-45af-9707-5d83d9aaba97
