@@ -1,4 +1,4 @@
-## Canal check Mon Nov 16 15:21:06 UTC 2026
+## Canal check Tue Nov 17 01:45:55 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -15,7 +15,7 @@
 - 200000 https://nd106.republicaservers.com:4433/c7827.mp4
 - 200 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 - 000000 http://38.187.7.252:8000/play/a03d/index.m3u8
-- 404 http://190.128.214.97:64333/play/a02i/index.m3u8
+- 200 http://190.128.214.97:64333/play/a02i/index.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
