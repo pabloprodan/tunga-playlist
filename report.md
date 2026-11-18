@@ -1,4 +1,4 @@
-## Canal check Tue Nov 17 15:45:15 UTC 2026
+## Canal check Wed Nov 18 00:48:24 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -15,7 +15,7 @@
 - 200000 https://nd106.republicaservers.com:4433/c7827.mp4
 - 200 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 - 000000 http://38.187.7.252:8000/play/a03d/index.m3u8
-- 200 http://190.128.214.97:64333/play/a02i/index.m3u8
+- 403 http://190.128.214.97:64333/play/a02i/index.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
@@ -23,12 +23,12 @@
 - 403 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 - 403 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-- 200 http://190.128.214.97:64333/play/a02h/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07w/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07v/index.m3u8
+- 403 http://190.128.214.97:64333/play/a02h/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07w/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07v/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07k/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07j/index.m3u8
-- 200 http://181.78.197.59:8000/play/a07u/index.m3u8
+- 404 http://181.78.197.59:8000/play/a07u/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07r/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07s/index.m3u8
 - 200 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -37,7 +37,7 @@
 - 200 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 - 200 http://23.237.104.106:8080/USA_NBA/index.m3u8
 - 000000 http://198.58.104.90:8989/nfl/index.m3u8
-- 000000 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+- 404 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 - 403 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 - 200 http://181.78.197.59:8000/play/a07q/index.m3u8
 - 200 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072633-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af4aed2d-44b9-45af-9707-5d83d9aaba97
@@ -45,7 +45,7 @@
 - 200 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts&play_token=dNJBdxFfT9
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
-- 200 http://45.134.141.161:2200/ARG/TNT/index.m3u8
+- 404 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 - 200 http://138.121.15.230:9002/SONY/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/TCM/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/USA/index.m3u8
