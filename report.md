@@ -1,4 +1,4 @@
-## Canal check Thu Nov 19 00:05:45 UTC 2026
+## Canal check Thu Nov 19 15:31:13 UTC 2026
 - 200 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 - 200 http://45.173.231.22:8000/play/a053/index.m3u8
 - 200 http://181.78.197.59:8000/play/a07g/index.m3u8
@@ -46,7 +46,7 @@
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/825895.ts
 - 512 http://glassx42.xyz:8080/live/BuZ5PQkccp/e5KyHEvaPZ/641706.ts
 - 200 http://45.134.141.161:2200/ARG/TNT/index.m3u8
-- 000000 http://138.121.15.230:9002/SONY/index.m3u8
+- 200 http://138.121.15.230:9002/SONY/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/TCM/index.m3u8
 - 200 http://45.134.141.161:2200/ARG/USA/index.m3u8
 - 200 http://45.171.64.30:6060/play/a005/index.m3u8
